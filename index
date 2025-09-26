@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- Define el tipo de documento como HTML5 -->
+    <meta charset="UTF-8">
+    
+    <!-- Hace que la página sea responsive en móviles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Título que aparece en la pestaña del navegador -->
+    <title>Noticias de Minecraft</title>
+
+    <!-- Vincula tu archivo CSS externo -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Encabezado principal de la página -->
+    <header>
+        <h1>Noticias de Minecraft</h1>
+        <p>Todo sobre las noticias de Minecraft.</p>
+    </header>
+
+    <!-- Contenido principal de la página -->
+    <main>
+        <h2>Novedades de Minecraft</h2>
+                <img 
+            class="MC_cardA__card_poster" 
+            src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Onboarding_Card-A_For-Beginners_600x600.jpg" 
+            loading="lazy" 
+            alt="Steve avanza con un pico" 
+            width="400"
+        >
+        
+        <ul>
+            <li>
+                Noticia 1: Minecraft 1.21.9 Candidato a lanzamiento 1.  
+                Un candidato a lanzamiento de Minecraft Java.  
+                Ahora estamos lanzando el primer, y con suerte único, candidato a lanzamiento para la versión 1.21.9.  
+                Si todo va bien, no se harán más cambios antes del lanzamiento completo. ¡Feliz minería!
+            </li>
+            <img 
+                src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.9-pre3%201170x500.jpg" 
+                class="article-head__image img-fluid" 
+                alt="Alex está en una aldea mirando dos estatuas de Gólem de cobre. La estatua de la derecha está oxidada; la de la izquierda, no. Un gólem de cobre busca en un cofre de cobre mientras un gólem de hierro está cerca." 
+                loading="lazy"
+                width="600"
+/>
+
+            <li>
+                Noticia 2: ¡Minecraft LIVE! 27 de septiembre — ¡Nuevas actualizaciones de juego, desarrolladores y más!  
+                Minecraft LIVE es nuestro propio y súper especial programa que te da toda la información interna sobre todo lo que ocurre en el mundo de Minecraft.  
+                El próximo se transmitirá en tan solo unas semanas, el 27 de septiembre a las 7 PM CEST / 10 AM.
+            </li>
+            <img 
+                class="MC_tiledHeroA_poster_img" 
+                src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/MCL_Fall25_KeyArt_FINAL_LOGO_1920_1080.png" 
+                alt="Dos personajes de Minecraft bailando al atardecer con tres gólems de cobre." 
+                loading="lazy" 
+                width="600"
+/>
+
+                ¿Qué tipo de juego es Minecraft?  
+                Minecraft es un videojuego sandbox de mundo abierto. Como tal, ¡hay infinitas posibilidades! Puedes centrarte en el aspecto creativo y usar los bloques para construir o explorar e intentar sobrevivir a la noche.
+            </li>
+            <!-- Imagen extra de Minecraft -->
+            <img 
+                class="MC_Carousel_track_slide_media_img" 
+                src="https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/Onboarding_Carousel-D-0_Craft-and-Use-Items_1280x768.jpg" 
+                alt="Crear y usar distintos objetos" 
+                loading="lazy" 
+                width="600">
+
+            <li>
+                ¿Hay una prueba gratuita de Minecraft?  
+                Puedes jugar a una prueba gratuita de Minecraft que está disponible en Windows, Android, PlayStation 4, PlayStation 3 y Vita. La duración de la prueba dependerá del dispositivo que uses.
+            </li>
+            <img 
+                src="https://lh3.googleusercontent.com/DJexP6PO8dL06XvNrjG7plb7SW_SaxuNamO80ab512JA71lBEBUnaJCaZzlqWVrrlEiG=s512" 
+                alt="Minecraft para Android gratis con la nueva aplicación de prueba" 
+                class="nofocus" 
+                loading="lazy" 
+                width="300"
+>           <li class="texto-grande">DIFERENCIA ENTRE BEDROCK Y JAVA</li>
+            <li>MULTIPLATAFORMA EN JAVA Y BEDROCK
+            <li>Java y Bedrock usan servidores diferentes, por lo que no pueden jugar juntos. Si tienes ambas ediciones, cambia según con quién juegues. Verifica la versión de tus amigos. En consola, Bedrock requiere suscripciones para jugar en línea; en PC solo necesitas internet./li>
+            <img 
+  src="https://assets.nuuvem.com/image/upload/v1/products/62f3c54f65d8fa7046eea12e/sharing_images/vvmelr55khbxp3myxj46.jpg" 
+  alt="Minecraft: Java and Bedrock Edition - PC - Buy it at Nuuvem" 
+  class="nofocus" 
+  tabindex="0" 
+  aria-label="Minecraft: Java and Bedrock Edition - PC - Buy it at Nuuvem" 
+  role="button"
+/>
+
+        </ul>
+
+        <!-- Imagen relacionada con Minecraft -->
+
+    </main>
+</body>
+</html>
