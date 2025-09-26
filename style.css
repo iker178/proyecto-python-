@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;         /* Fuente principal */
     font-size: 14px;                        /* Tamaño de texto más legible */
-    background-color: #ffffff;              /* Fondo blanco */
+    background-color: #000000;              /* Fondo blanco */
     color: #37b600;                         /* Color verde para el texto */
     margin: 0;                              /* Elimina márgenes por defecto */
     padding: 20px;                          /* Espaciado interno */
@@ -55,7 +55,7 @@ img {
 
 /* ====== Estilos para el header ====== */
 header {
-    background-color: #107c10;              /* Fondo verde tipo Xbox */
+    background-color: #27a50d;              /* Fondo verde tipo Xbox */
     color: white;                           /* Texto blanco */
     padding: 20px;
     border-radius: 8px;
