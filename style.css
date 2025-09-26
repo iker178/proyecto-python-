@@ -1,0 +1,75 @@
+/* ====== Estilos generales para toda la página ====== */
+body {
+    font-family: Arial, sans-serif;         /* Fuente principal */
+    font-size: 14px;                        /* Tamaño de texto más legible */
+    background-color: #ffffff;              /* Fondo blanco */
+    color: #37b600;                         /* Color verde para el texto */
+    margin: 0;                              /* Elimina márgenes por defecto */
+    padding: 20px;                          /* Espaciado interno */
+    line-height: 1.6;                       /* Altura de línea para mejor lectura */
+}
+
+/* ====== Encabezado principal (h1) ====== */
+h1 {
+    color: #ffffff;                         /* Color celeste para el título principal */
+    font-size: 32px;                        /* Tamaño de fuente mayor para destacar */
+    font-family: Georgia, serif;            /* Fuente elegante tipo serif */
+    margin-bottom: 10px;                    /* Espacio debajo del h1 */
+}
+
+/* ====== Subtítulos (h2) ====== */
+h2 {
+    color: #107c10;                         /* Verde más oscuro tipo Xbox */
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+/* ====== Párrafos ====== */
+p {
+    font-size: 16px;                        /* Tamaño más grande que el general */
+    color: #333333;                         /* Color oscuro para mejor contraste */
+    margin-bottom: 10px;
+}
+
+/* ====== Listas ====== */
+ul {
+    list-style-type: square;                /* Viñetas en forma de cuadrado */
+    padding-left: 20px;                     /* Sangría a la izquierda */
+    text-align: left;                       /* Alineación izquierda */
+    max-width: 600px;                       /* Máximo ancho para buena lectura */
+    margin: 0 auto;                         /* Centra la lista horizontalmente */
+}
+
+li {
+    margin-bottom: 8px;                     /* Espacio entre elementos de la lista */
+}
+
+/* ====== Imagen ====== */
+img {
+    max-width: 100%;                        /* Hace que la imagen sea responsive */
+    height: auto;                           /* Mantiene la proporción */
+    margin-top: 20px;
+    border-radius: 10px;                    /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+/* ====== Estilos para el header ====== */
+header {
+    background-color: #107c10;              /* Fondo verde tipo Xbox */
+    color: white;                           /* Texto blanco */
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.texto-grande {
+    font-size: 26px;           /* Más grande que el li normal */
+    font-weight: bold;         /* Negrita para destacar */
+    color: #107c10;            /* Verde Xbox, que ya usas */
+    margin-top: 20px;          /* Espacio arriba para separarlo */
+    text-transform: uppercase; /* Opcional: para que se vea bien en mayúsculas */
+    max-width: 600px;          /* Igual que el ul para que encaje */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;        /* Centrar texto para que resalte */
+}
